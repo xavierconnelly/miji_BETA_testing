@@ -10,7 +10,7 @@
         <img src="/miji.svg" class="logo" alt="Mi-Ji Logo"/>`,n=j(),se(i.$$.fragment),s=j(),r=I("footer"),r.innerHTML=`<div><span id="office">Office MI\u2014JI<br/>
           Suite 01/156 George St <br/>
           Fitzroy 3065</span> 
-        <span id="millie">Millie Anderson<br/>
+        <span id="millie">Milie Anderson<br/>
           millie@mi-ji.com.au<br/>
           0417 038 912</span> 
         <span id="jimmy">Jimmy Carter<br/>
