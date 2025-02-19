@@ -1,0 +1,199 @@
+<style>
+/* for 8 projects @400px (desktop) */
+.one {
+  transform: rotateY(0deg) translateZ(2030px);
+}
+.two {
+  transform: rotateY(11.25deg) translateZ(2030px);
+}
+.three {
+  transform: rotateY(22.5deg) translateZ(2030px);
+}
+.four {
+  transform: rotateY(33.75deg) translateZ(2030px);
+}
+.five {
+  transform: rotateY(45deg) translateZ(2030px);
+}
+.six {
+  transform: rotateY(56.25deg) translateZ(2030px);
+}
+.seven {
+    transform: rotateY(67.5deg) translateZ(2030px);
+}
+.eight {
+    transform: rotateY(78.75deg) translateZ(2030px);
+}
+.nine {
+  transform: rotateY(90deg) translateZ(2030px);
+}
+.ten {
+  transform: rotateY(101.25deg) translateZ(2030px);
+}
+.eleven {
+  transform: rotateY(112.5deg) translateZ(2030px);
+}
+.twelve {
+  transform: rotateY(123.75deg) translateZ(2030px);
+}
+.thirteen {
+  transform: rotateY(135deg) translateZ(2030px);
+}
+.fourteen {
+  transform: rotateY(146.25deg) translateZ(2030px);
+}
+.fifteen {
+  transform: rotateY(157.5deg) translateZ(2030px);
+}
+.sixteen {
+  transform: rotateY(168.75deg) translateZ(2030px);
+}
+.seventeen {
+  transform: rotateY(180deg) translateZ(2030px);
+}
+.eighteen {
+  transform: rotateY(191.25deg) translateZ(2030px);
+}
+.nineteen {
+  transform: rotateY(202.5deg) translateZ(2030px);
+}
+.twenty {
+  transform: rotateY(213.75deg) translateZ(2030px);
+}
+.twentyOne {
+  transform: rotateY(225deg) translateZ(2030px);
+}
+.twentyTwo {
+  transform: rotateY(236.25deg) translateZ(2030px);
+}
+.twentyThree {
+  transform: rotateY(247.5deg) translateZ(2030px);
+}
+.twentyFour {
+  transform: rotateY(258.75deg) translateZ(2030px);
+}
+.twentyFive {
+  transform: rotateY(270deg) translateZ(2030px);
+}
+.twentySix {
+  transform: rotateY(281.25deg) translateZ(2030px);
+}
+.twentySeven {
+  transform: rotateY(292.5deg) translateZ(2030px);
+}
+.twentyEight {
+  transform: rotateY(303.75deg) translateZ(2030px);
+}
+.twentyNine {
+  transform: rotateY(315deg) translateZ(2030px);
+}
+.thirty {
+  transform: rotateY(326.25deg) translateZ(2030px);
+}
+.thirtyOne {
+  transform: rotateY(337.5deg) translateZ(2030px);
+}
+.thirtyTwo {
+  transform: rotateY(348.75deg) translateZ(2030px);
+}
+
+
+
+/* for 8 projects @300px (mobile) */
+.one {
+  transform: rotateY(0deg) translateZ(1522.5px);
+}
+.two {
+  transform: rotateY(11.25deg) translateZ(1522.5px);
+}
+.three {
+  transform: rotateY(22.5deg) translateZ(1522.5px);
+}
+.four {
+  transform: rotateY(33.75deg) translateZ(1522.5px);
+}
+.five {
+  transform: rotateY(45deg) translateZ(1522.5px);
+}
+.six {
+  transform: rotateY(56.25deg) translateZ(1522.5px);
+}
+.seven {
+    transform: rotateY(67.5deg) translateZ(1522.5px);
+}
+.eight {
+    transform: rotateY(78.75deg) translateZ(1522.5px);
+}
+.nine {
+  transform: rotateY(90deg) translateZ(1522.5px);
+}
+.ten {
+  transform: rotateY(101.25deg) translateZ(1522.5px);
+}
+.eleven {
+  transform: rotateY(112.5deg) translateZ(1522.5px);
+}
+.twelve {
+  transform: rotateY(123.75deg) translateZ(1522.5px);
+}
+.thirteen {
+  transform: rotateY(135deg) translateZ(1522.5px);
+}
+.fourteen {
+  transform: rotateY(146.25deg) translateZ(1522.5px);
+}
+.fifteen {
+  transform: rotateY(157.5deg) translateZ(1522.5px);
+}
+.sixteen {
+  transform: rotateY(168.75deg) translateZ(1522.5px);
+}
+.seventeen {
+  transform: rotateY(180deg) translateZ(1522.5px);
+}
+.eighteen {
+  transform: rotateY(191.25deg) translateZ(1522.5px);
+}
+.nineteen {
+  transform: rotateY(202.5deg) translateZ(1522.5px);
+}
+.twenty {
+  transform: rotateY(213.75deg) translateZ(1522.5px);
+}
+.twentyOne {
+  transform: rotateY(225deg) translateZ(1522.5px);
+}
+.twentyTwo {
+  transform: rotateY(236.25deg) translateZ(1522.5px);
+}
+.twentyThree {
+  transform: rotateY(247.5deg) translateZ(1522.5px);
+}
+.twentyFour {
+  transform: rotateY(258.75deg) translateZ(1522.5px);
+}
+.twentyFive {
+  transform: rotateY(270deg) translateZ(1522.5px);
+}
+.twentySix {
+  transform: rotateY(281.25deg) translateZ(1522.5px);
+}
+.twentySeven {
+  transform: rotateY(292.5deg) translateZ(1522.5px);
+}
+.twentyEight {
+  transform: rotateY(303.75deg) translateZ(1522.5px);
+}
+.twentyNine {
+  transform: rotateY(315deg) translateZ(1522.5px);
+}
+.thirty {
+  transform: rotateY(326.25deg) translateZ(1522.5px);
+}
+.thirtyOne {
+  transform: rotateY(337.5deg) translateZ(1522.5px);
+}
+.thirtyTwo {
+  transform: rotateY(348.75deg) translateZ(1522.5px);
+}
+</style>
