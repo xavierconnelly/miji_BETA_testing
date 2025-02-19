@@ -1,6 +1,6 @@
 @font-face {
     font-family: Andale;
-    src: url(/ANDALEMO.woff) format("woff");
+    src: url(%sveltekit.assets%/ANDALEMO.woff) format("woff");
     font-display: swap
 }
 
