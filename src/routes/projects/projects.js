@@ -2,7 +2,7 @@ export const projects = [
 	{
 		slug: 'ALightAddition',
 		title: 'A Light Addition',
-		content: 'A Light Addition - Bunurong Country | St Kilda East, Australia 2024',
+		content: 'Bunurong Country | St Kilda East, Australia 2024',
 		colour: 'red',
 		hex: 'FF6600',
 		images: ["01", "02", "03", "04", "05"],
