@@ -1,4 +1,15 @@
 export const projects = [
+	{
+		slug: 'ALightAddition',
+		title: 'A Light Addition',
+		content: 'A Light Addition - Bunurong Country | St Kilda East, Australia 2024',
+		colour: 'red',
+		hex: 'FF6600',
+		images: ["01", "02", "03", "04", "05"],
+		plans: ["01", "02", "03"],
+		prev: 'TokyoTina',
+		next: 'ACourtyardHouse'
+	},
 
 	{
 		slug: 'ACourtyardHouse',
@@ -94,18 +105,6 @@ export const projects = [
 		plans: ["01"],
 		prev: 'FourVisitsTo52Posts',
 		next: 'ALightAddition'
-	},
-
-	{
-		slug: 'ALightAddition',
-		title: 'A Light Addition',
-		content: 'A Light Addition - Bunurong Country | St Kilda East, Australia 2024',
-		colour: 'yellow',
-		hex: 'FAF000',
-		images: ["01", "02", "03", "04", "05"],
-		plans: ["01", "02"],
-		prev: 'TokyoTina',
-		next: 'ACourtyardHouse'
 	}
 ];
 
