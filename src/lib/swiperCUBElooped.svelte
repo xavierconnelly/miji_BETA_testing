@@ -29,7 +29,7 @@
             </caption>
         </div>
 
-        <div class="yellow ALightAddition face two">
+        <div class="red ALightAddition face two">
             <a class="images" data-sveltekit-noscroll  href="../projects/ALightAddition">        
                 <img class="blur {$store}" src="../images/ALightAddition/01_800_blur.webp" width="auto" height="auto" alt="ALightAddition project">
                 <img class="clear {$store}" src="../images/ALightAddition/01_800.webp" width="auto" height="auto" alt="ALightAddition project">
@@ -125,7 +125,7 @@
             </caption>
         </div>
 
-        <div class="yellow ALightAddition face eleven">
+        <div class="red ALightAddition face eleven">
             <a class="images" data-sveltekit-noscroll  href="../projects/ALightAddition">        
                 <img class="blur {$store}" src="../images/ALightAddition/01_800_blur.webp" width="auto" height="auto" alt="ALightAddition project">
                 <img class="clear {$store}" src="../images/ALightAddition/01_800.webp" width="auto" height="auto" alt="ALightAddition project">
@@ -220,7 +220,7 @@
             </caption>
         </div>
 
-        <div class="yellow ALightAddition face twenty">
+        <div class="red ALightAddition face twenty">
             <a class="images" data-sveltekit-noscroll  href="../projects/ALightAddition">        
                 <img class="blur {$store}" src="../images/ALightAddition/01_800_blur.webp" width="auto" height="auto" alt="ALightAddition project">
                 <img class="clear {$store}" src="../images/ALightAddition/01_800.webp" width="auto" height="auto" alt="ALightAddition project">
@@ -315,7 +315,7 @@
             </caption>
         </div>
 
-        <div class="yellow ALightAddition face twentyNine">
+        <div class="red ALightAddition face twentyNine">
             <a class="images" data-sveltekit-noscroll  href="../projects/ALightAddition">        
                 <img class="blur {$store}" src="../images/ALightAddition/01_800_blur.webp" width="auto" height="auto" alt="ALightAddition project">
                 <img class="clear {$store}" src="../images/ALightAddition/01_800.webp" width="auto" height="auto" alt="ALightAddition project">
