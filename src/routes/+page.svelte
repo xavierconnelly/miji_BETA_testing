@@ -24,6 +24,19 @@
                         src="elva-fairy-800w.jpg"
                         alt="Elva dressed as a fairy" /> -->
 
+<img width="800" height="1150"
+     srcset="../images/ALightAddition/01_800.webp 800w"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/>
+
+
+<img width="800" height="1150"
+     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
+     sizes="100vw"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/>
+
+
                 <img    srcset="../images/ALightAddition/02_400.webp 400w, ../images/ALightAddition/02_800.webp 800w" 
                         sizes="(max-width: 600px) 400px, 800px" 
                         src="../images/ALightAddition/02_400.webp" 
@@ -39,6 +52,8 @@
                                 (min-width: 600px) 800px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
+
+
 
                 <img    width="800"
                         height="1200"
@@ -78,13 +93,13 @@
                     <a href="/projects/TokyoTina" data-sveltekit-scroll>
                         <img id="prev" class="arrow" src="/prev/red.svg" alt="prev button">
                     </a>
-                    <a href="/projects/ABHouse" data-sveltekit-scroll>
+                    <a href="/projects/ACourtyardHouse" data-sveltekit-scroll>
                         <img id="next" class="arrow" src="/next/red.svg" alt="prev button">
                     </a>
                 </div>
             </span>
             <div class="red sun">
-                Bunurong Country | Brighton, Australia 2024
+                Bunurong Country | St Kilda East, Australia 2024
             </div>
         </article> 
     {/if}
