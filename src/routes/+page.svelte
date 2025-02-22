@@ -23,31 +23,31 @@
                         sizes="(max-width: 600px) 480px, 800px"
                         src="elva-fairy-800w.jpg"
                         alt="Elva dressed as a fairy" /> -->
-<!-- 
-<img width="800" height="1150"
+
+<!-- <img width="800" height="1150"
      srcset="../images/ALightAddition/01_800.webp 800w"
      src="../images/ALightAddition/01_400.webp"
      alt="An image of an old house with a renovation, front view"/>
-
-
-<img width="800" height="1150"
-     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
-
-
-<img 
-     srcset="../images/ALightAddition/01_800.webp 800w"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
-
  -->
-<img 
+
+<img width="800" height="1150"
      srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
      sizes="100vw"
      src="../images/ALightAddition/01_400.webp"
      alt="An image of an old house with a renovation, front view"/>
+
+<!-- 
+<img 
+     srcset="../images/ALightAddition/01_800.webp 800w"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/>
+ -->
+
+<!-- <img 
+     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
+     sizes="100vw"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/> -->
 <!-- 
 <img 
      srcset="../images/ALightAddition/01_400.webp 400w"
