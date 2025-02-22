@@ -12,7 +12,7 @@
         <HeaderMobile/>
         <article transition:fade={{ duration: 2 }}>
             <span class="red ALightAddition" id="display">
-
+<!-- 
                 <picture alt="An image of an old house with a renovation, front view">
                   <source srcset="../images/ALightAddition/01_800.webp" media="(min-width: 600px)" width="800" height="1150"/>
                   <img src="../images/ALightAddition/01_400.webp" width="800" height="1150"/>
@@ -36,8 +36,32 @@
                 <picture alt="An image of an old house with a renovation, front view">
                   <source srcset="../images/ALightAddition/05_800.webp" media="(min-width: 600px)" width="800" height="1150"/>
                   <img src="../images/ALightAddition/05_400.webp" width="800" height="1150"/>
-                </picture>
-
+                </picture> -->
+                <img src="../images/ALightAddition/01_400.webp" 
+                     loading="lazy" 
+                     alt="An image of an old house with a renovation, front view"
+                     width="800"
+                     height="1150">
+                <img src="../images/ALightAddition/02_400.webp" 
+                     loading="lazy" 
+                     alt="An image of an old house with a renovation, front view"
+                     width="800"
+                     height="1200">
+                <img src="../images/ALightAddition/03_400.webp" 
+                     loading="lazy" 
+                     alt="An image of an old house with a renovation, front view"
+                     width="800"
+                     height="533">
+                <img src="../images/ALightAddition/04_400.webp" 
+                     loading="lazy" 
+                     alt="An image of an old house with a renovation, front view"
+                     width="800"
+                     height="1200">
+                <img src="../images/ALightAddition/05_400.webp" 
+                     loading="lazy" 
+                     alt="An image of an old house with a renovation, front view"
+                     width="800"
+                     height="1200">
                 <img class="plan" src="../images/ALightAddition/Plan_01_800.svg" alt="ALightAddition" loading="lazy" >
                 <img class="plan" src="../images/ALightAddition/Plan_02_800.svg" alt="ALightAddition" loading="lazy" >
                 <img class="plan" src="../images/ALightAddition/Plan_03_800.svg" alt="ALightAddition" loading="lazy" >
