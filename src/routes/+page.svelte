@@ -37,6 +37,18 @@
      alt="An image of an old house with a renovation, front view"/>
 
 
+<img 
+     srcset="../images/ALightAddition/01_800.webp 800w"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/>
+
+
+<img 
+     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
+     sizes="100vw"
+     src="../images/ALightAddition/01_400.webp"
+     alt="An image of an old house with a renovation, front view"/>
+
                 <img    srcset="../images/ALightAddition/02_400.webp 400w, ../images/ALightAddition/02_800.webp 800w" 
                         sizes="(max-width: 600px) 400px, 800px" 
                         src="../images/ALightAddition/02_400.webp" 
