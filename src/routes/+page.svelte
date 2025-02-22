@@ -34,8 +34,10 @@
                 <img    width="800"
                         height="533"
                         src="../images/ALightAddition/03_400.webp" 
-                        srcset="../images/ALightAddition/03_400.webp 400w, ../images/ALightAddition/03_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 600px" 
+                        srcset="../images/ALightAddition/03_400.webp 400w,
+                                ../images/ALightAddition/03_800.webp 800w" 
+                        sizes=" (max-width: 600px) 400px,
+                                (min-width: 600px) 800px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
 
@@ -51,9 +53,20 @@
                         height="1200"
                         src="../images/ALightAddition/05_400.webp" 
                         srcset="../images/ALightAddition/05_400.webp 400w, ../images/ALightAddition/05_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 600px" 
+                        sizes="(max-width: 600px) 400px, 800px" 
                         alt="An image of an old house with a renovation, side view"
                         loading="lazy"/>
+<!-- 
+                <img    src="new-york-skyline-wide.jpg"
+                        srcset="
+                              new-york-skyline-wide.jpg 3724w,
+                              new-york-skyline-4by3.jpg 1961w,
+                              new-york-skyline-tall.jpg 1060w
+                            "
+                        sizes=" ((min-width: 50em) and (max-width: 60em)) 50em,
+                                ((min-width: 30em) and (max-width: 50em)) 30em,
+                                (max-width: 30em) 20em"
+              />   -->    
 <!--                 <img src="../images/ALightAddition/01_800.webp" alt="A Light Addition project">
                 <img src="../images/ALightAddition/02_800.webp" alt="A Light Addition project" loading="lazy">
                 <img src="../images/ALightAddition/03_800.webp" alt="A Light Addition project" loading="lazy" >
