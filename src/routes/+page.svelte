@@ -12,14 +12,48 @@
         <HeaderMobile/>
         <article transition:fade={{ duration: 2 }}>
             <span class="red ALightAddition" id="display">
-                <img src="../images/ALightAddition/01_800.webp" alt="A Light Addition project">
-                <img src="../images/ALightAddition/02_800.webp" alt="A Light Addition project">
-                <img src="../images/ALightAddition/03_800.webp" alt="A Light Addition project">
-                <img src="../images/ALightAddition/04_800.webp" alt="A Light Addition project">
-                <img src="../images/ALightAddition/05_800.webp" alt="A Light Addition project">
-                <img class="plan" src="../images/ALightAddition/Plan_01_800.svg" alt="ALightAddition">
-                <img class="plan" src="../images/ALightAddition/Plan_02_800.svg" alt="ALightAddition">
-                <img class="plan" src="../images/ALightAddition/Plan_03_800.svg" alt="ALightAddition">
+                <img    width="800"
+                        height="1150"
+                        src="../images/ALightAddition/01_400.webp" 
+                        srcset="../images/ALightAddition/01_400.webp 300w, ../images/ALightAddition/01_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 600px" 
+                        alt="A Light Addition project"/>
+                <img    width="800"
+                        height="1200"
+                        src="../images/ALightAddition/02_400.webp" 
+                        srcset="../images/ALightAddition/02_400.webp 300w, ../images/ALightAddition/02_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 600px" 
+                        alt="A Light Addition project"
+                        loading="lazy"/>
+                <img    width="800"
+                        height="533"
+                        src="../images/ALightAddition/03_400.webp" 
+                        srcset="../images/ALightAddition/03_400.webp 300w, ../images/ALightAddition/03_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 600px" 
+                        alt="A Light Addition project"
+                        loading="lazy"/>
+                <img    width="800"
+                        height="1200"
+                        src="../images/ALightAddition/04_400.webp" 
+                        srcset="../images/ALightAddition/04_400.webp 300w, ../images/ALightAddition/04_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 600px" 
+                        alt="A Light Addition project"
+                        loading="lazy"/>
+                <img    width="800"
+                        height="1200"
+                        src="../images/ALightAddition/05_400.webp" 
+                        srcset="../images/ALightAddition/05_400.webp 300w, ../images/ALightAddition/05_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 600px" 
+                        alt="A Light Addition project"
+                        loading="lazy"/>
+<!--                 <img src="../images/ALightAddition/01_800.webp" alt="A Light Addition project">
+                <img src="../images/ALightAddition/02_800.webp" alt="A Light Addition project" loading="lazy">
+                <img src="../images/ALightAddition/03_800.webp" alt="A Light Addition project" loading="lazy" >
+                <img src="../images/ALightAddition/04_800.webp" alt="A Light Addition project" loading="lazy" >
+                <img src="../images/ALightAddition/05_800.webp" alt="A Light Addition project" loading="lazy" > -->
+                <img class="plan" src="../images/ALightAddition/Plan_01_800.svg" alt="ALightAddition" loading="lazy" >
+                <img class="plan" src="../images/ALightAddition/Plan_02_800.svg" alt="ALightAddition" loading="lazy" >
+                <img class="plan" src="../images/ALightAddition/Plan_03_800.svg" alt="ALightAddition" loading="lazy" >
                 <div class="buttons ALightAddition">
                     <a href="/projects/TokyoTina" data-sveltekit-scroll>
                         <img id="prev" class="arrow" src="/prev/red.svg" alt="prev button">
