@@ -18,9 +18,9 @@
             <a href="/" class="{data.project.colour} {data.project.slug}"  data-sveltekit-noscroll id="display">
                 <!-- Images -->
                 {#each data.project.images as  i}
-                <picture width="800" height="1150" alt="{data.project.title} project" loading="lazy">
-                  <source srcset="../images/{data.project.slug}/{i}_800.webp" media="(min-width: 600px)" />
-                  <img src="../images/{data.project.slug}/{i}_400.webp" />
+                <picture alt="{data.project.title} project" loading="lazy">
+                  <source srcset="../images/{data.project.slug}/{i}_800.webp" media="(min-width: 600px)" width="800" height="1150" />
+                  <img src="../images/{data.project.slug}/{i}_400.webp" width="800" height="1150" />
                 </picture>
 
 <!--                     <img  src="../images/{data.project.slug}/{i}_800.webp" 
