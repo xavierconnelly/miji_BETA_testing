@@ -30,12 +30,18 @@
      alt="An image of an old house with a renovation, front view"/>
  -->
 
+
+<picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+  <source srcset="../images/ALightAddition/01_800.webp" media="(min-width: 600px)" />
+  <img src="../images/ALightAddition/01_400.webp" />
+</picture>
+<!-- 
 <img width="800" height="1150"
      srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
      sizes="100vw"
      src="../images/ALightAddition/01_400.webp"
      alt="An image of an old house with a renovation, front view"/>
-
+ -->
 <!-- 
 <img 
      srcset="../images/ALightAddition/01_800.webp 800w"
