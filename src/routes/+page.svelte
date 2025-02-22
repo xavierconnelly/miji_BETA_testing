@@ -12,18 +12,18 @@
         <HeaderMobile/>
         <article transition:fade={{ duration: 2 }}>
             <span class="red ALightAddition" id="display">
-                <img    width="800"
+<!--                 <img    width="800"
                         height="1150"
                         srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w" 
                         src="../images/ALightAddition/01_400.webp" 
                         alt="An image of an old house with a renovation, front view"/>
-
+ -->
 <!--                 <img
                         srcset="elva-fairy-480w.jpg 480w, elva-fairy-800w.jpg 800w"
                         sizes="(max-width: 600px) 480px, 800px"
                         src="elva-fairy-800w.jpg"
                         alt="Elva dressed as a fairy" /> -->
-
+<!-- 
 <img width="800" height="1150"
      srcset="../images/ALightAddition/01_800.webp 800w"
      src="../images/ALightAddition/01_400.webp"
@@ -42,13 +42,13 @@
      src="../images/ALightAddition/01_400.webp"
      alt="An image of an old house with a renovation, front view"/>
 
-
+ -->
 <img 
      srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
      sizes="100vw"
      src="../images/ALightAddition/01_400.webp"
      alt="An image of an old house with a renovation, front view"/>
-
+<!-- 
 <img 
      srcset="../images/ALightAddition/01_400.webp 400w"
      sizes="100vw"
@@ -103,7 +103,7 @@
                         srcset="../images/ALightAddition/05_400.webp 400w, ../images/ALightAddition/05_800.webp 800w" 
                         sizes="(max-width: 600px) 400px, 800px" 
                         alt="An image of an old house with a renovation, side view"
-                        loading="lazy"/>
+                        loading="lazy"/> -->
 <!-- 
                 <img    src="new-york-skyline-wide.jpg"
                         srcset="
