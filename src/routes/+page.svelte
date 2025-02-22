@@ -14,17 +14,23 @@
             <span class="red ALightAddition" id="display">
                 <img    width="800"
                         height="1150"
-                        src="../images/ALightAddition/01_400.webp" 
                         srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 600px" 
+                        sizes="(max-width: 600px) 400px, 800px" 
+                        src="../images/ALightAddition/01_400.webp" 
                         alt="An image of an old house with a renovation, front view"/>
-                <img    width="800"
-                        height="1200"
+
+<!--                 <img
+                        srcset="elva-fairy-480w.jpg 480w, elva-fairy-800w.jpg 800w"
+                        sizes="(max-width: 600px) 480px, 800px"
+                        src="elva-fairy-800w.jpg"
+                        alt="Elva dressed as a fairy" /> -->
+
+                <img    srcset="../images/ALightAddition/02_400.webp 400w, ../images/ALightAddition/02_800.webp 800w" 
+                        sizes="(max-width: 600px) 400px, 800px" 
                         src="../images/ALightAddition/02_400.webp" 
-                        srcset="../images/ALightAddition/02_400.webp 400w, ../images/ALightAddition/02_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 600px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
+
                 <img    width="800"
                         height="533"
                         src="../images/ALightAddition/03_400.webp" 
@@ -32,6 +38,7 @@
                         sizes="(max-width: 600px) 400px, 600px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
+
                 <img    width="800"
                         height="1200"
                         src="../images/ALightAddition/04_400.webp" 
@@ -39,6 +46,7 @@
                         sizes="(max-width: 600px) 400px, 600px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
+                        
                 <img    width="800"
                         height="1200"
                         src="../images/ALightAddition/05_400.webp" 
