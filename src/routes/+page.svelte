@@ -15,7 +15,6 @@
                 <img    width="800"
                         height="1150"
                         srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 800px" 
                         src="../images/ALightAddition/01_400.webp" 
                         alt="An image of an old house with a renovation, front view"/>
 
