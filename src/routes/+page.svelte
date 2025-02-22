@@ -42,11 +42,11 @@
                 <img    width="800"
                         height="1200"
                         src="../images/ALightAddition/04_400.webp" 
-                        srcset="../images/ALightAddition/04_400.webp 400w, ../images/ALightAddition/04_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 600px" 
+                        srcset="../images/ALightAddition/04_400.webp 400w" 
+                        sizes="(max-width: 600px) 400px" 
                         alt="An image of an old house with a renovation, front view"
                         loading="lazy"/>
-                        
+
                 <img    width="800"
                         height="1200"
                         src="../images/ALightAddition/05_400.webp" 
