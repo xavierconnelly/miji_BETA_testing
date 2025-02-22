@@ -12,120 +12,32 @@
         <HeaderMobile/>
         <article transition:fade={{ duration: 2 }}>
             <span class="red ALightAddition" id="display">
-<!--                 <img    width="800"
-                        height="1150"
-                        srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w" 
-                        src="../images/ALightAddition/01_400.webp" 
-                        alt="An image of an old house with a renovation, front view"/>
- -->
-<!--                 <img
-                        srcset="elva-fairy-480w.jpg 480w, elva-fairy-800w.jpg 800w"
-                        sizes="(max-width: 600px) 480px, 800px"
-                        src="elva-fairy-800w.jpg"
-                        alt="Elva dressed as a fairy" /> -->
 
-<!-- <img width="800" height="1150"
-     srcset="../images/ALightAddition/01_800.webp 800w"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
- -->
+                <picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+                  <source srcset="../images/ALightAddition/01_800.webp" media="(min-width: 600px)" />
+                  <img src="../images/ALightAddition/01_400.webp" />
+                </picture>
 
+                <picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+                  <source srcset="../images/ALightAddition/02_800.webp" media="(min-width: 600px)" />
+                  <img src="../images/ALightAddition/02_400.webp" />
+                </picture>
 
-<picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
-  <source srcset="../images/ALightAddition/01_800.webp" media="(min-width: 600px)" />
-  <img src="../images/ALightAddition/01_400.webp" />
-</picture>
-<!-- 
-<img width="800" height="1150"
-     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
- -->
-<!-- 
-<img 
-     srcset="../images/ALightAddition/01_800.webp 800w"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
- -->
+                <picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+                  <source srcset="../images/ALightAddition/03_800.webp" media="(min-width: 600px)" />
+                  <img src="../images/ALightAddition/03_400.webp" />
+                </picture>
 
-<!-- <img 
-     srcset="../images/ALightAddition/01_400.webp 400w, ../images/ALightAddition/01_800.webp 800w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/> -->
-<!-- 
-<img 
-     srcset="../images/ALightAddition/01_400.webp 400w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
+                <picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+                  <source srcset="../images/ALightAddition/04_800.webp" media="(min-width: 600px)" />
+                  <img src="../images/ALightAddition/04_400.webp" />
+                </picture>
 
+                <picture width="800" height="1150" alt="An image of an old house with a renovation, front view">
+                  <source srcset="../images/ALightAddition/05_800.webp" media="(min-width: 600px)" />
+                  <img src="../images/ALightAddition/05_400.webp" />
+                </picture>
 
-<img 
-     srcset="../images/ALightAddition/01_400.webp 400w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
-
-
-
-<img 
-     srcset="../images/ALightAddition/01_800.webp 400w, ../images/ALightAddition/01_400.webp 800w"
-     sizes="100vw"
-     src="../images/ALightAddition/01_400.webp"
-     alt="An image of an old house with a renovation, front view"/>
-
-
-                <img    srcset="../images/ALightAddition/02_400.webp 400w, ../images/ALightAddition/02_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 800px" 
-                        src="../images/ALightAddition/02_400.webp" 
-                        alt="An image of an old house with a renovation, front view"
-                        loading="lazy"/>
-
-                <img    width="800"
-                        height="533"
-                        src="../images/ALightAddition/03_400.webp" 
-                        srcset="../images/ALightAddition/03_400.webp 400w,
-                                ../images/ALightAddition/03_800.webp 800w" 
-                        sizes=" (max-width: 600px) 400px,
-                                (min-width: 600px) 800px" 
-                        alt="An image of an old house with a renovation, front view"
-                        loading="lazy"/>
-
-
-
-                <img    width="800"
-                        height="1200"
-                        src="../images/ALightAddition/04_400.webp" 
-                        srcset="../images/ALightAddition/04_400.webp 400w" 
-                        sizes="(max-width: 600px) 400px" 
-                        alt="An image of an old house with a renovation, front view"
-                        loading="lazy"/>
-
-                <img    width="800"
-                        height="1200"
-                        src="../images/ALightAddition/05_400.webp" 
-                        srcset="../images/ALightAddition/05_400.webp 400w, ../images/ALightAddition/05_800.webp 800w" 
-                        sizes="(max-width: 600px) 400px, 800px" 
-                        alt="An image of an old house with a renovation, side view"
-                        loading="lazy"/> -->
-<!-- 
-                <img    src="new-york-skyline-wide.jpg"
-                        srcset="
-                              new-york-skyline-wide.jpg 3724w,
-                              new-york-skyline-4by3.jpg 1961w,
-                              new-york-skyline-tall.jpg 1060w
-                            "
-                        sizes=" ((min-width: 50em) and (max-width: 60em)) 50em,
-                                ((min-width: 30em) and (max-width: 50em)) 30em,
-                                (max-width: 30em) 20em"
-              />   -->    
-<!--                 <img src="../images/ALightAddition/01_800.webp" alt="A Light Addition project">
-                <img src="../images/ALightAddition/02_800.webp" alt="A Light Addition project" loading="lazy">
-                <img src="../images/ALightAddition/03_800.webp" alt="A Light Addition project" loading="lazy" >
-                <img src="../images/ALightAddition/04_800.webp" alt="A Light Addition project" loading="lazy" >
-                <img src="../images/ALightAddition/05_800.webp" alt="A Light Addition project" loading="lazy" > -->
                 <img class="plan" src="../images/ALightAddition/Plan_01_800.svg" alt="ALightAddition" loading="lazy" >
                 <img class="plan" src="../images/ALightAddition/Plan_02_800.svg" alt="ALightAddition" loading="lazy" >
                 <img class="plan" src="../images/ALightAddition/Plan_03_800.svg" alt="ALightAddition" loading="lazy" >
